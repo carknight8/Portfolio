@@ -1,4 +1,4 @@
-# Chase Marsalko - Personal Website
+# Carter Knight - Personal Website
 
 Welcome to the repository for my personal website, showcasing my work experience, skills, and projects. This website is built to serve as a professional portfolio and includes various interactive elements and responsive design.
 
